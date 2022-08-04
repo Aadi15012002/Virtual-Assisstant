@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1657910321 source:c:\users\aditi sharma\desktop\virtual assisstant\virtual_assisstant_project\main.cpp
+	<iostream>
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<ctime>
+
